@@ -1,4 +1,8 @@
 #!/bin/bash
+##### add db, not part of solution file #####
+# psql --username=$USER --dbname=postgres ###
+# psql -U postgres < students.sql ###########
+#############################################
 
 # Info about my computer science students from students database
 
